@@ -1,4 +1,4 @@
 <?php
-header("Location: https://pestssolution.us/nor/index.html");
+header("Location: https://www.aol.com/movies/?icid=aol.com-nav");
 die();
 ?>
