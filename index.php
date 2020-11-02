@@ -1,4 +1,4 @@
 <?php
-header("Location: https://eatmytrip.com/");
+header("Location: https://www.safeway.ca/recipe-tags/appetizers-2/");
 die();
 ?>
